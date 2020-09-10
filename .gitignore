@@ -1,0 +1,13 @@
+# VS Code settings
+.vscode/*
+
+# Virtual Environments
+venv/
+task-scheduler-virtualenv/
+
+# Sphinx documentation
+docs/_build/
+docs/build/
+
+# sqlite DB
+*/todo.db
